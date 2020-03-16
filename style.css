@@ -287,7 +287,7 @@ margin: 30px;
   -moz-text-fill-color: transparent;
   -o-text-fill-color: transparent;
   text-fill-color: transparent;
-  background-image: url(../images/cnbcbackground.jpg);
+  background-image: url(../images/cnbcbackground.png);
   background-attachment: fixed; /* Parallax effect */
   background-position: right;  /* Parallax effect */
   background-repeat: no-repeat; /* Parallax effect */
